@@ -44,18 +44,19 @@ Add CME activities here. You'll need:
 
 ### Reports
 Specify:
--state or organization receiving the report
--start and end dates (inclusive) of the report
+- state or organization receiving the report
+- start and end dates (inclusive) of the report
+
 Report will include:
--physician name and state medical license number
--date report was generated
--activity list, including the city and state of the sponsoring organization's headquarters
--summary of total credit hours completed during the specified time period
+- physician name and state medical license number
+- date report was generated
+- activity list, including the city and state of the sponsoring organization's headquarters
+- summary of total credit hours completed during the specified time period
 
 ## Future
--add upload capability, to have a central repository for CME certificates.
--generate PDFs for easy printing.
--create API for medical boards to obtain this information digitally
+- add upload capability, to have a central repository for CME certificates.
+- generate PDFs for easy printing.
+- create API for medical boards to obtain this information digitally
 
 ## Contributors
 [@idealist84](https://github.com/idealist84)

@@ -64,12 +64,17 @@ Here, options include:
 - add or delete licenses
 
 ## Future
+- include more detailed and robust data from medical boards
+- include DO medical boards
+- include allied health professions licensing boards
+- include health system credentialing and privileging offices
 - add upload capability, to have a central repository for CME certificates.
 - generate PDFs for easy printing.
-- create API for medical boards to obtain this information digitally
+- create API for medical boards to obtain this information digitally.
 
 ## Contributors
 [@idealist84](https://github.com/idealist84)
+If you would like to contribute to this project, please [let me know](https://github.com/idealist84/public/issues/new).
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)

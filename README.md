@@ -20,7 +20,7 @@ Using `flask run` in the CS50 IDE, click on the generated link.
 On the landing page, you can click on the Register link to get started, or log in if you've already created an account.
 
 ### Register
-You'll need to use your *full legal name as it is registered in NPPES* to create an account.
+You'll need to use your **full legal name as it is registered in NPPES** to create an account.
 1. Have your NPI number and each state medical license number handy. You do not need your DEA number.
 2. Choose a unique username.
 3. Choose a unique password that you do not use for other accounts.

@@ -45,13 +45,23 @@ Add CME activities here. You'll need:
 ### Reports
 Specify:
 - state or organization receiving the report
+    - if you choose a state, the report will automatically include special topics (e.g. pain) if applicable
+    - if you choose to enter your own organization, you can choose which special topics to include
 - start and end dates (inclusive) of the report
+    - if no dates are chosen, the date of the earliest activity is the start date and today is set as the end date
 
 Report will include:
 - physician name and state medical license number
 - date report was generated
 - activity list, including the city and state of the sponsoring organization's headquarters
 - summary of total credit hours completed during the specified time period
+
+### Profile
+Here, options include:
+- change password
+- change date of birth
+- update license renewal date
+- add or delete licenses
 
 ## Future
 - add upload capability, to have a central repository for CME certificates.

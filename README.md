@@ -74,6 +74,7 @@ Here, options include:
 
 ## Contributors
 [@idealist84](https://github.com/idealist84)
+
 If you would like to contribute to this project, please [let me know](https://github.com/idealist84/public/issues/new).
 
 ## License
